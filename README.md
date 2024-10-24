@@ -13,3 +13,5 @@
 7.[https://github.com/2303A51967/23CSBTB27/blob/main/lab7.ipynb]
 
 8[https://github.com/2303A51967/23CSBTB27/blob/main/lab%208.ipynb]
+
+9[https://github.com/2303A51967/23CSBTB27/blob/main/lab%209.ipynb]
