@@ -11,3 +11,5 @@
 6[https://github.com/2303A51967/23CSBTB27/blob/main/lab6To_Colab.ipynb]
 
 7.[https://github.com/2303A51967/23CSBTB27/blob/main/lab7.ipynb]
+
+8[https://github.com/2303A51967/23CSBTB27/blob/main/lab%208.ipynb]
